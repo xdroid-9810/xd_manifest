@@ -31,7 +31,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="xd_frameworks_av" remote="xd" />
-  <project path="frameworks/base" name="xd_frameworks_base" remote="xd" />
+  <project path="frameworks/base" name="xd_frameworks_base" remote="xd-9810" />
   <project path="frameworks/native" name="xd_frameworks_native" remote="xd" />
 
   <!-- Hardware -->
@@ -42,7 +42,7 @@
   <project path="hardware/xiaomi" name="xd_hardware_xiaomi" remote="xd" />
 
   <!-- Packages Apps -->
-  <project path="packages/apps/Bluetooth" name="xd_packages_apps_Bluetooth" remote="xd" />
+  <project path="packages/apps/Bluetooth" name="xd_packages_apps_Bluetooth" remote="xd-9810" />
   <project path="packages/apps/Nfc" name="xd_packages_apps_Nfc" remote="xd" />
   <project path="packages/apps/ThemePicker" name="xd_packages_apps_ThemePicker" remote="xd" />
   <project path="packages/apps/Settings" name="xd_packages_apps_Settings" remote="xd" />
@@ -78,6 +78,7 @@
   <project path="system/core" name="xd_system_core" remote="xd" />
   <project path="system/sepolicy" name="xd_system_sepolicy" remote="xd" />
   <project path="system/vold" name="xd_system_vold" remote="xd" />
+  <project path="system/security" name="xd_system_security" remote="xd-9810" />
   
   <!-- Vendor -->
   <project path="vendor/google/gms" name="xd_vendor_google_gms" remote="xd-gitlab" clone-depth="1" />
