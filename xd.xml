@@ -42,7 +42,7 @@
   <project path="hardware/xiaomi" name="xd_hardware_xiaomi" remote="xd" />
 
   <!-- Packages Apps -->
-  <project path="packages/apps/Bluetooth" name="xd_packages_apps_Bluetooth" remote="xd" />
+  <project path="packages/apps/Bluetooth" name="xd_packages_apps_Bluetooth" remote="xd-9810" />
   <project path="packages/apps/Nfc" name="xd_packages_apps_Nfc" remote="xd" />
   <project path="packages/apps/ThemePicker" name="xd_packages_apps_ThemePicker" remote="xd" />
   <project path="packages/apps/Settings" name="xd_packages_apps_Settings" remote="xd" />
