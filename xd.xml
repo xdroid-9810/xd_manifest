@@ -8,7 +8,7 @@
   <project path="official-maintainer" name="xd_official-maintainer" remote="xd-devices" />
 
   <!-- Device -->
-  <project path="device/xdroid/sepolicy" name="xd_device_xdroid_sepolicy" remote="xd" />
+  <project path="device/xdroid/sepolicy" name="xd_device_xdroid_sepolicy" remote="xd-9810" />
   <project path="device/qcom/sepolicy" name="xd_device_qcom_sepolicy" remote="xd" />
   <project path="device/qcom/sepolicy_vndr" name="xd_device_qcom_sepolicy_vndr" remote="xd" />
   <project path="device/qcom/sepolicy-legacy" name="xd_device_qcom_sepolicy-legacy" remote="xd" />
